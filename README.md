@@ -1,5 +1,7 @@
 # Anomaly_Detection
-Anomaly Detection using Deep Learning (Autoencoders in Tensorflow)
+Anomaly Detection using Deep Learning (Autoencoders in Tensorflow) 
+
+
 The idea is quite simple:
 * The bottleneck architecture of the autoencoder in neural networks, forces the model to learn a condensed representation in order to reproduce the original input.
 * By feeding the encoder onlynon-fraudulent transaction data, the encoder model learns the characteristics of these non-fraudulent transactions and can identify it with high fidelity.
